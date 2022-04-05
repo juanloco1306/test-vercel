@@ -16,7 +16,8 @@
   box-sizing: inherit;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
 html {
   box-sizing: border-box;
@@ -26,7 +27,8 @@ html {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  /*font-family: "Roboto", sans-serif;*/
+  font-family: "Quicksand", sans-serif;
   font-size: 1.6rem;
   /*background-color: #fcfafa;*/
   background-color: red;
