@@ -5,8 +5,8 @@ const Header = {
             <a class="logo" href="#">Diario Moctezuma</a>
             <!-- menu -->
             <ul class="nav-list d-flex">
-              <li><a href="/#/">Home</a></li>
-              <li><a href="/#/about">About</a></li>
+              <li><a href="/#/">Noticias</a></li>
+              <li><a href="/#/about">Nosotros</a></li>
               <li><a href="/#/contact">Contacto</a></li>
             </ul>
 
