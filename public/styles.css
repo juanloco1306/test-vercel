@@ -28,7 +28,8 @@ html {
 body {
   font-family: "Roboto", sans-serif;
   font-size: 1.6rem;
-  background-color: #fcfafa;
+  /*background-color: #fcfafa;*/
+  background-color: red;
   color: var(--black);
   font-weight: 400;
   width: 100%;
