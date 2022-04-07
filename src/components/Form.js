@@ -8,28 +8,28 @@ const Form = {
       id="contactform"
       disabled
     >
-      <h4>Contact Us</h4>
+      <h4>Mandanos tu mensaje!</h4>
       <input
         autocomplete='off'
         name='name'
-        placeholder='Name*'
+        placeholder='Nombre'
         required
       />
       <input
         autocomplete='off'
         name='email'
         type='email'
-        placeholder='Email*'
+        placeholder='Email'
         required
       />
       <textarea
         name='message'
         rows='8'
-        placeholder='Message:'
+        placeholder='Mensaje:'
         required
       ></textarea>
       <button type='submit' value='Send'>
-        Send
+        Enviar
       </button>
     </form>`;
   },
@@ -51,14 +51,14 @@ const Form = {
         );
 
         if (response.status === 200) {
-          swal.fire("Great Job!", "Thanks for Contacting Us!", "success");
+          swal.fire("Great Job!", "Gracias por contactarnos!", "success");
         }
       } catch (error) {
         console.log(error);
         if (error) {
           swal.fire(
             "Oops!",
-            "Sorry, Something bad really happended, Please try again",
+            "Lo siento, Algo malo realmente sucedió, Vuelve a intentarlo",
             "error"
           );
         }

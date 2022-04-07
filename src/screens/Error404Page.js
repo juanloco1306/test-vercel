@@ -5,8 +5,8 @@ const Error404Screen = {
           <img src="/images/404.svg" alt="404 image" />
         </div>
         <div class="content">
-          <p>The Page You are looking for is now beyound our Reach...</p>
-          <a href="/#/" aria-label="back to home">Go Home</a>
+          <p>La página que está buscando ahora está fuera de nuestro alcance...</p>
+          <a href="/#/" aria-label="back to home">Regresar a inicio</a>
         </div>
       </div>`;
     },

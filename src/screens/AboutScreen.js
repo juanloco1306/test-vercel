@@ -9,28 +9,16 @@ const AboutScreen = {
               <div class="article-container">
               <div class="content">
               <div class="top">
-              <h1>About Me</h1>
+              <h1>Diario Moctezuma</h1>
               </div>
               <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Laborum labore recusandae ratione dolorum deserunt maiores,
-              magni magnam ab vitae provident expedita eius alias quisquam
-              tempora temporibus, molestiae consequatur esse id.
+              Diario Moctezuma es un espacio con una vision joven con la finalidad de informar y criticar las noticias mas relevantes de la politica mexicana, sin la censura de los medios de comunicacion convencionales 
               </p>
               <div class="content-img">
-              <img src="./images/profile.jpg" alt="" />
+              <img src="./images/penacho.jpg" alt="" />
               </div>
               <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Laborum labore recusandae ratione dolorum deserunt maiores,
-              magni magnam ab vitae provident expedita eius alias quisquam
-              tempora temporibus, molestiae consequatur esse id.
-              </p>
-              <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Laborum labore recusandae ratione dolorum deserunt maiores,
-              magni magnam ab vitae provident expedita eius alias quisquam
-              tempora temporibus, molestiae consequatur esse id.
+              Buscamos brindar informacion oportuna y veraz para que los habitantes de México esten al tanto de la verdadera realidad del pais y los problemos que los atormentan.
               </p>
               </div>
               </div>

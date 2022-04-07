@@ -9,26 +9,11 @@ const ContactScreen = {
             </div>
             <div class="article-container">
             <div class="content">
-            <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Laborum labore recusandae ratione dolorum deserunt maiores,
-            magni magnam ab vitae provident expedita eius alias quisquam
-            tempora temporibus, molestiae consequatur esse id.
-            </p>
             <div class="content-img">
-            <img src="./images/blog-3.svg" alt="" />
+            <img src="./images/contact.jpg" alt="" />
             </div>
             <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Laborum labore recusandae ratione dolorum deserunt maiores,
-            magni magnam ab vitae provident expedita eius alias quisquam
-            tempora temporibus, molestiae consequatur esse id.
-            </p>
-            <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Laborum labore recusandae ratione dolorum deserunt maiores,
-            magni magnam ab vitae provident expedita eius alias quisquam
-            tempora temporibus, molestiae consequatur esse id.
+            Para nosotros es muy importante tu opinion, este espacio fue creado para que nos envies tu opinion o algun comentario que quieras realizar acerca de nuestro trabajo.
             </p>
             ${Form.render()}
             </div>
