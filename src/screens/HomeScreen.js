@@ -7,7 +7,7 @@ const HomeScreen = {
     const blogs = await getBlogs();
     return `<div>
     <div class="blog-layout container" id="blog-layout">
-    ${blogs.map((blog) => `${Blog.render(blog)}`).reverse().join("\n")}
+    ${blogs.map((blog) => `${Blog.render(blog)}`).join("\n")}
     </div>
     <div class="load-btn"><button class="load" id="load">Mas Noticias</button></div>
     </div>`;
