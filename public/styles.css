@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Kings:wght@300&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
 
 :root {
   --primary: #4db2ec;
@@ -30,7 +32,8 @@ html {
 
 body {
   /*font-family: "Roboto", sans-serif;*/
-  font-family: "Quicksand", sans-serif;
+  /*font-family: "Quicksand", sans-serif;*/
+  /*font-family: 'Beau Rivage', cursive;*/
   font-size: 1.6rem;
   background-color: #fcfafa;
   color: var(--black);
@@ -116,6 +119,7 @@ li {
 .logo {
   color: var(--white);
   font-size: 3rem;
+  
 }
 
 .logo:hover {
@@ -248,6 +252,7 @@ li {
 
 .blog .blog-text {
   padding: 1.5rem;
+  
 }
 
 .blog .blog-text h2 {
