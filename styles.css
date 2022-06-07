@@ -365,11 +365,13 @@ li {
 
 .footer p {
   margin-right: 3rem;
+  font-family: 'Pirata One', cursive;
 }
 
 .footer a {
   font-size: 2.5rem;
   margin-right: 1rem;
+  font-family: 'Pirata One', cursive;
 }
 
 /* Details */
