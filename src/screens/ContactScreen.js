@@ -3,9 +3,9 @@ const ContactScreen = {
   render: () => {
     return `<div class="blog-detail">
             <div class="side-ad">
-              <a href="#" class="vertical-ad">
+              <!--<a href="#" class="vertical-ad">
               <img src="/images/side-ad.svg"/>
-              </a>
+              </a>-->
             </div>
             <div class="article-container">
             <div class="content">
@@ -13,15 +13,15 @@ const ContactScreen = {
             <img src="./images/contact.jpg" alt="" />
             </div>
             <p>
-            Para nosotros es muy importante tu opinion, este espacio fue creado para que nos envies tu opinion o algun comentario que quieras realizar acerca de nuestro trabajo.
+            Para nosotros es muy importante tu opinion, este espacio fue creado para que te contactes con el equipo de Diario Moctezuma.
             </p>
             ${Form.render()}
             </div>
             </div>
             <div class="side-ad">
-              <a href="#" class="vertical-ad">
+              <!--<a href="#" class="vertical-ad">
               <img src="/images/side-ad.svg"/>
-              </a>
+              </a>--->
             </div>
             </div>`;
   },
